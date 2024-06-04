@@ -23,7 +23,8 @@ Durante lo sviluppo di Burning Boundaries, sono stati utilizzati diversi strumen
 - GitHub: Utilizzato per la gestione del codice sorgente, il controllo delle versioni e la documentazione del progetto.
 - Trello: Utilizzato per organizzare e tracciare i compiti utilizzando il framework Kanban, consentendo una gestione efficace del progetto anche per un singolo sviluppatore.
 
-![image](https://github.com/Pozza136/FirstGame/assets/164640806/681ebdad-5aba-403f-a40e-5bb18663ca01)
+![image](https://github.com/DallaPozzaGioele/Capolavoro/assets/115212352/2a5d147d-79ed-497e-9519-99a61c4bda87)
+
 
 ## Background e Competenze
 Le nozioni apprese a scuola hanno giocato un ruolo fondamentale nello sviluppo di Burning Boundaries. Concetti fondamentali come la programmazione e problem solving, hanno fornito una solida base per la realizzazione del gioco. Queste conoscenze pregresse hanno svolto un ruolo cruciale nel guidare il processo creativo e nel garantire il successo del progetto, contribuendo alla creazione di un'esperienza di gioco coinvolgente e divertente.
