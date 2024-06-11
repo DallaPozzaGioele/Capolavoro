@@ -7,10 +7,12 @@ Benvenuto nel mondo infuocato di Burning Boundaries! Preparati a un'avventura av
 Per iniziare il tuo viaggio nel mondo infuocato di Burning Boundaries:
 
 1. Assicurati di avere un computer con sistema operativo Windows a 64 bit.
-2. Naviga nella cartella `BurningBoundaries`.
+2. Naviga nella cartella `BurningBoundaries1.1`.
 3. Scarica tutto il contenuto di questa cartella sul tuo computer.
 4. Trova e fai doppio clic sull'eseguibile chiamato `Burning Boundaries.exe`.
 5. Immergiti nell'azione e preparati a vivere un'avventura indimenticabile!
+
+La versione 1.1 aggiunge un livello al gioco e risolve alcuni bug presenti nella versione 1.0
 
 # Processo di Sviluppo
 
